@@ -13,7 +13,6 @@ def divide(a, b):
 
 divide(a, b)
 
-
 # Задание №2
 def person_info(**kwargs):
     return kwargs

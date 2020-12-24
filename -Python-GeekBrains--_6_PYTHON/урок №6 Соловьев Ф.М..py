@@ -1,6 +1,7 @@
 #Задание №1
 import time
 
+
 class Trafficlight:
     def __init__(self):
         print('Внимание светофор!')
